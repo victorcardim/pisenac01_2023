@@ -86,7 +86,7 @@ escrever aqui um pouco sobre a plataforma
 
 ### Ementa por matéria
 
-![Ementa Materia Aluno](./images/aluno/)
+![Ementa Materia Aluno](./images/aluno/Aluno%20-%20Ementa.png)
 
 
 ### Lista de Atividades
