@@ -6,6 +6,7 @@ A plataforma da Academia do Saber visa facilitar os processos para todas as part
 Há um modelo de perfil para cada tipo de pessoa (aluno/pai, professor, instituição, fornecedor), onde os mesmos podem acessar as opções condizentes com a necessidade de cada. Pais e alunos têm acesso a questões relacionadas à matrícula e matérias, professores podem editar informações sobre sua disciplina, avaliar os alunos e solicitar materiais junto ao fornecedor que, por sua vez, tem acesso ao estoque e aos pedidos e, para finalizar, o acesso da instituição permite o gerenciamento das matrículas e controle do setor financeiro.
 
 # Mapa mental 
+Foi idealizado o mapa mental para direcionar as idéias para a prototipagem e tanto o nome escolhido como o logotipo foi feito em comum acordo com o grupo do projeto.
 
 ![Mapa mental Academia do Saber](./images/mapa-mental.png)
 
