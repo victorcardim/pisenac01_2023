@@ -2,7 +2,8 @@
 
 Projeto realizado para a disciplina de Projeto Integrador do 3º período do curso de Análise de Sistemas do Senac EAD.
 
-*Escrever aqui um pouco sobre a plataforma Academia do Saber.*
+A plataforma da Academia do Saber visa facilitar os processos para todas as partes envolvidas acerca da instituição. 
+Há um modelo de perfil para cada tipo de pessoa (aluno/pai, professor, instituição, fornecedor), onde os mesmos podem acessar as opções condizentes com a necessidade de cada. Pais e alunos têm acesso a questões relacionadas à matrícula e matérias, professores podem editar informações sobre sua disciplina, avaliar os alunos e solicitar materiais junto ao fornecedor que, por sua vez, tem acesso ao estoque e aos pedidos e, para finalizar, o acesso da instituição permite o gerenciamento das matrículas e controle do setor financeiro.
 
 # Mapa mental 
 
