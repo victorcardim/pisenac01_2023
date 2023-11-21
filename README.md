@@ -7,7 +7,7 @@ escrever aqui um pouco sobre a plataforma
 ![Mapa mental Academia do Saber](./images/mapa-mental.png)
 
 # Protótipo
-link para o figma
+[link para o figma](https://www.figma.com/file/jmMecpnatRdnwJZ76bI8Bw/PI---Prot%C3%B3tipo---Grupo-01---2023.02?type=design&node-id=221-1866&mode=design&t=pMmnXqSGbuUc6rFQ-0)
 
 ## Login 
 
