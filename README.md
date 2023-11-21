@@ -1,13 +1,15 @@
 # Academia do Saber
 
-escrever aqui um pouco sobre a plataforma 
+Projeto realizado para a disciplina de Projeto Integrador do 3º período do curso de Análise de Sistemas do Senac EAD.
+
+*Escrever aqui um pouco sobre a plataforma Academia do Saber.*
 
 # Mapa mental 
 
 ![Mapa mental Academia do Saber](./images/mapa-mental.png)
 
 # Protótipo
-[link para o figma](https://www.figma.com/file/jmMecpnatRdnwJZ76bI8Bw/PI---Prot%C3%B3tipo---Grupo-01---2023.02?type=design&node-id=221-1866&mode=design&t=pMmnXqSGbuUc6rFQ-0)
+O desenvolvimento das telas do protótipo deste projeto, mostradas a seguir, foram integralmente desenhadas utilizando a plataforma Figma, é possível os esboços a partir deste [link](https://www.figma.com/file/jmMecpnatRdnwJZ76bI8Bw/PI---Prot%C3%B3tipo---Grupo-01---2023.02?type=design&node-id=221-1866&mode=design&t=pMmnXqSGbuUc6rFQ-0).
 
 ## Login 
 
@@ -101,3 +103,6 @@ escrever aqui um pouco sobre a plataforma
 ### Notas e Frenquência do Aluno
 
 ![Notas e frenquência Aluno](./images/aluno/Aluno%20-%20Notas%20e%20frequência.png)
+
+
+# Equipe de Desenvolvimento
