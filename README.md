@@ -108,3 +108,10 @@ O desenvolvimento das telas do protótipo deste projeto, mostradas a seguir, for
 
 
 # Equipe de Desenvolvimento
+
+#### AUREA MARIA OLIVEIRA DA SILVA
+#### BRUNA BARBOSA BELO
+#### FILIPE ALVES DE LIMA
+#### ISABELLA CAMILO FRANCO
+#### VICTOR SOUZA CARDIM
+
